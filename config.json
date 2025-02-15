@@ -1,0 +1,14 @@
+{
+  "pauseKey": "F11",
+  "listeners": [
+      {
+          "listenKey": "A",
+          "triggers": [
+              {
+                  "triggerKey": "S",
+                  "action": "hold"
+              }
+          ]
+      }
+  ]
+}
