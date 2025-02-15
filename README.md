@@ -1,4 +1,4 @@
-### **README.md** - AutoKey Clicker
+### AutoKey Clicker
 
 # **AutoKey Clicker**
 **AutoKey Clicker** 是一款 Windows 自动按键工具，支持监听特定按键并触发自定义按键操作。适用于游戏、办公自动化等场景，可通过 `config.json` 配置实现灵活的按键映射。
@@ -134,8 +134,3 @@ Press Enter to exit...
 ## **版权与免责声明**
 - 本软件仅用于**个人学习和办公自动化**，请勿用于任何违反游戏规则或其他不当用途。
 - 开发者不对任何可能的使用后果负责。
-
-
----
-
-通过这个 **README**，用户可以快速了解 **AutoKey Clicker** 的功能、安装方法、使用说明及局限性。
